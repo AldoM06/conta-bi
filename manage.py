@@ -23,3 +23,6 @@ if __name__ == '__main__':
 
 #HolaDesde mi pc,
 #he configurado git
+#recordando git add .
+#git commit -m  ""
+#git push
